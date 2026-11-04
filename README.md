@@ -19,7 +19,6 @@ flutter run       # jugar
 > `test/widget_test.dart` comprueba la pantalla y el botón para cantar cartas.
 
 ## Estructura
-
 ```
 lib/
   modelos/carta.dart
